@@ -9,3 +9,4 @@
 （下にスクショを後で貼る予定）
 
 ![NXDOMAIN例](./nxdomain_demo.png)
+
